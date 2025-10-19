@@ -39,7 +39,7 @@ Instead of training a model from scratch (which requires a large dataset and com
 For this demonstration, a **small custom dataset** of sample images (soccer player, dog, and car) was used to keep runtime light and GPU usage minimal.  
 Each image has a few manually defined captions for supervised training.
 
-*(A larger version can be trained using the Flickr8k or MS COCO dataset.)*
+*Precisely the Flickr8k dataset was used.*
 
 ---
 
