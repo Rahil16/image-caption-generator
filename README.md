@@ -40,6 +40,7 @@ For this demonstration, a **small custom dataset** of sample images (soccer play
 Each image has a few manually defined captions for supervised training.
 
 *Precisely the Flickr8k dataset was used.*
+*(Dataset gets auto downloaded via code)* 
 
 ---
 
