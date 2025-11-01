@@ -7,7 +7,7 @@ The model combines **InceptionV3** (pre-trained on ImageNet) for visual feature 
 
 ## 🎯 Objective
 
-To build a deep learning model that can look at an image and describe it in natural language — showcasing understanding of both **computer vision** and **natural language processing** concepts through **transfer learning**.
+To build a deep learning model that can look at an image and describe it in natural language showcasing understanding of both **computer vision** and **natural language processing** concepts through **transfer learning**.
 
 ---
 
